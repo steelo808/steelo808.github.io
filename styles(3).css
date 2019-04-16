@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+	text-align:center;
+	box-sizing:border-box;
+	font-family: 'Jura', sans-serif;
+}
+.top{
+	background-color: rgba(135, 124, 176,.2);
+	padding:2px;
+}
+
+li{
+   display:inline-block;
+   padding:15px;
+   margin:10px;
+   font-size: 20px;
+  }
+
+a{
+	text-decoration:none;
+	color:#11073B;
+	float:right;
+}
+li a{
+	float:right;
+}
+a:hover{
+	text-decoration:underline;
+	color:;
+	transition-duration: 1s;
+}
+.logo{
+	float:left;
+}
+
+.section1 {
+	border-bottom: 2px solid #11073B;
+}
